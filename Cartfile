@@ -1,0 +1,5 @@
+github "stephencelis/SQLite.swift" ~> 0.11.2
+github "tid-kijyun/Kanna" ~> 2.1.0
+github "Alamofire/Alamofire" ~> 4.4
+github "SVProgressHUD/SVProgressHUD" == 2.1.2
+github "mxcl/PromiseKit" ~> 4.0
